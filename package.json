@@ -1,0 +1,25 @@
+{
+  "name": "vue-options",
+  "version": "1.0.0",
+  "description": "选择面板",
+  "main": "index.js",
+  "dependencies": {
+    "element-ui": "^1.2.3",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songhejia/vue-options.git"
+  },
+  "author": "851232853@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/songhejia/vue-options/issues"
+  },
+  "homepage": "https://github.com/songhejia/vue-options#readme"
+}
