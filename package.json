@@ -1,7 +1,7 @@
 {
   "name": "vue-options",
   "version": "1.0.0",
-  "description": "选择面板",
+  "description": "选择器面板",
   "main": "index.js",
   "dependencies": {
     "element-ui": "^1.2.3",
