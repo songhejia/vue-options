@@ -1,0 +1,16 @@
+{
+  "name": "vue-options",
+  "version": "1.0.0",
+  "description": "选择器面板",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build/build"
+  },
+  "author": "851232853@qq.com",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^2.2.1"
+  },
+  "devDependencies": {}
+}
